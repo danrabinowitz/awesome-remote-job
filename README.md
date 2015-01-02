@@ -11,6 +11,7 @@ A curated list of awesome remote jobs
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
   
 ## Companies
+  1. [LivingSocial] (https://corporate.livingsocial.com/careers/browse-all-jobs/?deep_link=/jobs/search?category=Engineering+-+Software+Development)
   1. [Canonical](http://www.canonical.com/careers/all-vacancies)
   1. [Khan Academy](https://www.khanacademy.org/careers)
   1. [Buffer](http://jobs.bufferapp.com/)
